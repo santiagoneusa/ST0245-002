@@ -17,4 +17,4 @@ There you will see 2 functions.
   - Alert: Explain the some things that appear in the plot gmplot generates.
 
 
-If any question, write to Manueña Castaño Franco or Santiago Neusa Ruiz on teams.
+> If any question, write to Manueña Castaño Franco (@manu0420) or Santiago Neusa Ruiz (me) on teams.
