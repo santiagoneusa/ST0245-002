@@ -9,7 +9,7 @@ You need to download all files, but **only run the 'main.py'** to see the result
 There you will see 3 functions.
   - Graph creation: create the graph as an adjacency list build with dictionaries and fill with the information of "*calles_de_medellin_con_acoso.csv*".
   - Dijkstra: the algorithm that makes the route. Return a dictionarie with the previouses vertex (to build the path with 'Generate path') and a queue.
-  - Generate path: A recursive function that stores the data of the dictionarie that returns the Dijkstra algorithm in the queue given also by Dijkstra.
+  - Generate path: A recursive function that stores the data of the dictionaries that returns the Dijkstra algorithm in the queue given also by Dijkstra.
   
 ### Graphics
 There you will see 2 functions.
