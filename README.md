@@ -1,3 +1,5 @@
+### Last contribution:
+
 ## Code for second delivery
 
 This folder has 5 files. Two with the information to build the graph and plot, and three that have the code.
@@ -13,3 +15,6 @@ There you will see 3 functions.
 There you will see 2 functions.
   - Plot path: uses the Google Maps engine with the librarie gmplot to plot the path given by the function 'generate_path' in 'graph_methods.py'.
   - Alert: Explain the some things that appear in the plot gmplot generates.
+
+
+If any question, write to Manueña Castaño Franco or Santiago Neusa Ruiz on teams.
