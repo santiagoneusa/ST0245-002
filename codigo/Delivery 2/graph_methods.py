@@ -47,7 +47,7 @@ def dijkstra_distance_and_risk(graph, origin, destination):
     distances = {vertex: float('infinity') for vertex in graph}
     previous = {vertex: None for vertex in graph}
     
-    # The origin doesn't have distance to itself or a predecesor, so we make sure to set that values
+    # The origin doesn't have distance to itself or a predecesor, so we make sure to set those values
     distances[origin], previous[origin] = 0, None 
 
     # Creating the priority queue and assigning a tuple
