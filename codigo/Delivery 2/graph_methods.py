@@ -24,7 +24,7 @@ def graph_creation():
     # This part 
     for i in dataframe.index:
         
-        # This variable is a tri-tuple that contains the length, harassment risk and a combination of both that will be used later
+        # This variable is a tri-tuple that contains the length, harassment risk and a combination of both that will be used later on
         weight = (dataframe["length"][i], dataframe["harassmentRisk"][i], (dataframe["length"][i]+dataframe["harassmentRisk"][i])/2)
 
         # Storing the variable in the graph
